@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "922010564453",
+    "project_id": "pa-app-fa5b7",
+    "storage_bucket": "pa-app-fa5b7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922010564453:android:6e1a5fa54190e90c99938c",
+        "android_client_info": {
+          "package_name": "com.example.humdam_soulsync"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0QBYZlgpkCRcEx90N4yvGh-2EHm-0AyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

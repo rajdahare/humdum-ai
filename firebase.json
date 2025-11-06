@@ -1,0 +1,27 @@
+{
+  "functions": {
+    "runtime": "nodejs20",
+    "source": "functions",
+    "ignore": [
+      "node_modules",
+      ".git",
+      ".github",
+      "firebase-debug.log"
+    ]
+  },
+  "firestore": {
+    "rules": "firestore.rules"
+  },
+  "storage": {
+    "rules": "storage.rules"
+  },
+  "emulators": {
+    "functions": {
+      "host": "127.0.0.1",
+      "port": 5002
+    },
+    "ui": {
+      "enabled": false
+    }
+  }
+}
